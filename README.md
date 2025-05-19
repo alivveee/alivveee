@@ -24,7 +24,7 @@
 - 🔭 I’m into **web development**, especially front-end stuff
 - 🌱 Currently studying **Information Technology at Brawijaya University**
 - 👯 Always up for collabs to learn and grow
-- 😄 Looking for opportunities as a **Front-End Developer** (?)
+- 😄 Looking for opportunities as a **Front-End Developer**
 
 ---
 
